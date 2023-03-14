@@ -107,12 +107,7 @@ class ClaimMasterPanel extends FormPanel {
       <style>
         {
           `
-          #problem .MuiInputBase-input:invalid {
-          box-shadow: 0 0 0 2px rgb(104 113 120 / 25%);
-          margin-left: 0px ;
-          margin-right: 10px;
-            
-        }
+      
         .MuiAutocomplete-endAdornment {
           top: 0; 
       } 
